@@ -26,11 +26,4 @@ raspberry PI를 활용하여 실력을 키우는 중 입니다.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PinkTultle&show_icons=true&theme=radical)
 
 ## 💻 DEV's log 💻
-<div style="display:flex; flex-direction:row;">
-    <a href="https://pink-tt-world.tistory.com/">
-        <img src="https://img.shields.io/badge/
-        Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
-    </a>
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/
-api?name=li-yo&theme=default)](https://pink-tt-world.tistory.com/)
-</div><br>
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name={Tistory}&theme={dark})](https://github.com/loosie/github-readme-tistory-card)
