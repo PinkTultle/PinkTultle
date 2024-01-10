@@ -26,4 +26,4 @@ raspberry PI를 활용하여 실력을 키우는 중 입니다.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PinkTultle&show_icons=true&theme=radical)
 
 ## 💻 DEV's log 💻
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name={Tistory}&theme={dark})](https://github.com/loosie/github-readme-tistory-card)
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory&theme=dark)](https://pink-tt-world.tistory.com/)
