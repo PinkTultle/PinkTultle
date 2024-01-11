@@ -29,5 +29,5 @@ raspberry PI를 활용하여 실력을 키우는 중 입니다.
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory&theme=dark)](https://pink-tt-world.tistory.com/)
 
 <div align=left><h1>📚 STACKS </h1></div>
-  <img src="https://img.shields.io/badge/C-007396?style=for-the-badge&logo=c&logoColor=white"> 
+  <img src="https://img.shields.io/badge/C-50808E?style=for-the-badge&logo=c&logoColor=white"> 
 
