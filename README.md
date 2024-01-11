@@ -32,31 +32,31 @@ raspberry PI를 활용하여 실력을 키우는 중 입니다.
 <br>
   <img src="https://img.shields.io/badge/C-50808E?style=flat&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/C++-06908F?style=flat&logo=cplusplus&logoColor=white">
-  <img src="https://img.shields.io/badge/C%23-0CA4A5?style=for-the-badge&logo=csharp&logoColor=white">
-  <img src="https://img.shields.io/badge/JAVA-FB8B24?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-006494?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/C%23-0CA4A5?style=flat&logo=csharp&logoColor=white">
+  <img src="https://img.shields.io/badge/JAVA-FB8B24?style=flat&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-006494?style=flat&logo=python&logoColor=white">
   </br>
 
-  <img src="https://img.shields.io/badge/Apache-C4C6E7?style=for-the-badge&logo=apache&logoColor=white">
-  <img src="https://img.shields.io/badge/Oracle-A50104?style=for-the-badge&logo=oracle&logoColor=white">
-  <img src="https://img.shields.io/badge/MYSQL-2B4162?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Maria DB-1B98E0?style=for-the-badge&logo=mariadb&logoColor=white">
+  <img src="https://img.shields.io/badge/Apache-C4C6E7?style=flat&logo=apache&logoColor=white">
+  <img src="https://img.shields.io/badge/Oracle-A50104?style=flat&logo=oracle&logoColor=white">
+  <img src="https://img.shields.io/badge/MYSQL-2B4162?style=flat&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Maria DB-1B98E0?style=flat&logo=mariadb&logoColor=white">
   <br>
 
-  <img src="https://img.shields.io/badge/Git-F26419?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Github-020100?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Sourcetree-473BF0?style=for-the-badge&logo=sourcetree&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F26419?style=flat&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Github-020100?style=flat&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Sourcetree-473BF0?style=flat&logo=sourcetree&logoColor=white">
   <br>
   
-  <img src="https://img.shields.io/badge/Linux-FCE694?style=for-the-badge&logo=linux&logoColor=white">
-  <img src="https://img.shields.io/badge/Ubuntu-E94F37?style=for-the-badge&logo=ubuntu&logoColor=white">
-  <img src="https://img.shields.io/badge/Raspbian-BC2C1A?style=for-the-badge&logo=raspberrypi&logoColor=white">
-  <img src="https://img.shields.io/badge/ROS2-685F74?style=for-the-badge&logo=ros&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCE694?style=flat&logo=linux&logoColor=white">
+  <img src="https://img.shields.io/badge/Ubuntu-E94F37?style=flat&logo=ubuntu&logoColor=white">
+  <img src="https://img.shields.io/badge/Raspbian-BC2C1A?style=flat&logo=raspberrypi&logoColor=white">
+  <img src="https://img.shields.io/badge/ROS2-685F74?style=flat&logo=ros&logoColor=white">
   <br>
   
-  <img src="https://img.shields.io/badge/Arduino-454E9E?style=for-the-badge&logo=arduino&logoColor=white">
-  <img src="https://img.shields.io/badge/Raspberry PI-E84855?style=for-the-badge&logo=raspberrypi&logoColor=white">
-  <img src="https://img.shields.io/badge/STM32-4C4C9D?style=for-the-badge&logo=stmicroelectronics&logoColor=white">
+  <img src="https://img.shields.io/badge/Arduino-454E9E?style=flat&logo=arduino&logoColor=white">
+  <img src="https://img.shields.io/badge/Raspberry PI-E84855?style=flat&logo=raspberrypi&logoColor=white">
+  <img src="https://img.shields.io/badge/STM32-4C4C9D?style=flat&logo=stmicroelectronics&logoColor=white">
   <br>
   
   
