@@ -30,4 +30,35 @@ raspberry PI를 활용하여 실력을 키우는 중 입니다.
 
 <div align=left><h1>📚 STACKS </h1></div>
   <img src="https://img.shields.io/badge/C-50808E?style=for-the-badge&logo=c&logoColor=white"> 
+  <img src="https://img.shields.io/badge/C++-색상?style=for-the-badge&logo=cplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/C#-색상?style=for-the-badge&logo=csharp&logoColor=white">
+  <img src="https://img.shields.io/badge/JAVA-색상?style=for-the-badge&logo=기술스택아이콘&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-색상?style=for-the-badge&logo=python&logoColor=white">
+  <br>
+
+  <img src="https://img.shields.io/badge/Apache-색상?style=for-the-badge&logo=apache&logoColor=white">
+  <img src="https://img.shields.io/badge/Oracle-색상?style=for-the-badge&logo=oracle&logoColor=white">
+  <img src="https://img.shields.io/badge/MYSQL-색상?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Maria DB-색상?style=for-the-badge&logo=mariadb&logoColor=white">
+  <br>
+
+  <img src="https://img.shields.io/badge/Git-색상?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Github-색상?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Sourcetree-색상?style=for-the-badge&logo=sourcetree&logoColor=white">
+  <br>
+  
+  <img src="https://img.shields.io/badge/Linux-색상?style=for-the-badge&logo=linux&logoColor=white">
+  <img src="https://img.shields.io/badge/Ubuntu-색상?style=for-the-badge&logo=ubuntu&logoColor=white">
+  <img src="https://img.shields.io/badge/Raspbian-색상?style=for-the-badge&logo=raspberrypi&logoColor=white">
+  <img src="https://img.shields.io/badge/ROS2-색상?style=for-the-badge&logo=ros&logoColor=white">
+  <br>
+  
+  <img src="https://img.shields.io/badge/Arduino-색상?style=for-the-badge&logo=arduino&logoColor=white">
+  <img src="https://img.shields.io/badge/Raspberry PI-색상?style=for-the-badge&logo=raspberrypi&logoColor=white">
+  <img src="https://img.shields.io/badge/STM32-색상?style=for-the-badge&logo=stmicroelectronics&logoColor=white">
+  <br>
+  
+  
+
+
 
