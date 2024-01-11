@@ -31,8 +31,7 @@ raspberry PI를 활용하여 실력을 키우는 중 입니다.
 <div align=left><h1>📚 STACKS </h1></div>
 <br>
   <img src="https://img.shields.io/badge/C-50808E?style=for-the-badge&logo=c&logoColor=white">
-<img src="https://img.shields.io/badge/C++-06908F?style=for-the-badge&logo=cplusplus&logoColor=white">
-  <img src="https://img.shields.io/badge/C%23-0CA4A5?style=for-the-badge&logo=csharp&logoColor=white">
+<img src="https://img.shields.io/badge/C++-06908F?style=for-the-badge&logo=cplusplus&logoColor=white">  <img src="https://img.shields.io/badge/C%23-0CA4A5?style=for-the-badge&logo=csharp&logoColor=white">
   <img src="https://img.shields.io/badge/JAVA-FB8B24?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/Python-90F3FF?style=for-the-badge&logo=python&logoColor=white">
   </br>
