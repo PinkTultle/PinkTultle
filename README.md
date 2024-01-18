@@ -37,10 +37,7 @@ raspberry PI를 활용하여 실력을 키우는 중 입니다.
   <img src="https://img.shields.io/badge/Python-006494?style=flat&logo=python&logoColor=white">
   <br>
 
-  <img src="https://img.shields.io/badge/Apache-C4C6E7?style=flat&logo=apache&logoColor=white">
   <img src="https://img.shields.io/badge/Oracle-A50104?style=flat&logo=oracle&logoColor=white">
-  <img src="https://img.shields.io/badge/MYSQL-2B4162?style=flat&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Maria DB-1B98E0?style=flat&logo=mariadb&logoColor=white">
   <br>
 
   <img src="https://img.shields.io/badge/Git-F26419?style=flat&logo=git&logoColor=white">
