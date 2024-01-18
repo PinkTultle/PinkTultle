@@ -46,7 +46,6 @@ raspberry PI를 활용하여 실력을 키우는 중 입니다.
   <img src="https://img.shields.io/badge/Linux-FCE694?style=flat&logo=linux&logoColor=white">
   <img src="https://img.shields.io/badge/Ubuntu-E94F37?style=flat&logo=ubuntu&logoColor=white">
   <img src="https://img.shields.io/badge/Raspbian-BC2C1A?style=flat&logo=raspberrypi&logoColor=white">
-  <img src="https://img.shields.io/badge/ROS2-685F74?style=flat&logo=ros&logoColor=white">
   <br>
   
   <img src="https://img.shields.io/badge/Arduino-454E9E?style=flat&logo=arduino&logoColor=white">
