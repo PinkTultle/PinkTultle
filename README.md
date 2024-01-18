@@ -35,8 +35,6 @@ raspberry PI를 활용하여 실력을 키우는 중 입니다.
   <img src="https://img.shields.io/badge/C%23-0CA4A5?style=flat&logo=csharp&logoColor=white">
   <img src="https://img.shields.io/badge/JAVA-FB8B24?style=flat&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/Python-006494?style=flat&logo=python&logoColor=white">
-  <br>
-
   <img src="https://img.shields.io/badge/Oracle-A50104?style=flat&logo=oracle&logoColor=white">
   <br>
 
