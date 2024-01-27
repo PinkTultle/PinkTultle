@@ -25,8 +25,10 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PinkTultle&show_icons=true&theme=radical)
 
 ## 💻 DEV's log 💻
-<a href="https://pinkturtleworld.notion.site/f48583bbd6954c7290b6a5c1eb4c155f?pvs=74" target="_blank"><img src="https://img.shields.io/badge/notion-#000000?style=flat&logo=로고&logoColor=white"/a>
-
+<div>
+<href="https://pinkturtleworld.notion.site/f48583bbd6954c7290b6a5c1eb4c155f?pvs=74" target="_blank"><img src="https://img.shields.io/badge/notion-#000000?style=flat&logo=로고&logoColor=white"/a>
+</div>
+  
 <div align=left><h1>📚 STACKS </h1></div>
 <div>
   <img src="https://img.shields.io/badge/C-50808E?style=flat&logo=c&logoColor=white">
