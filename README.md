@@ -22,11 +22,10 @@ Here are some ideas to get you started:
 활용하여 실력을 키우는 중 입니다.
 
 
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PinkTultle&show_icons=true&theme=radical)
 
 ## 💻 DEV's log 💻
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory&theme=dark)](https://pink-tt-world.tistory.com/)
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Notion&theme=dark)](https://pinkturtleworld.notion.site/pinkturtleworld/f48583bbd6954c7290b6a5c1eb4c155f)
 
 <div align=left><h1>📚 STACKS </h1></div>
 <div>
