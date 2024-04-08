@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 *This Page is Tultle's Profile Page*
 
-임베디드 리눅스 개발자를 목표로 하고있습니다
+임베디드 리눅스 
+개발자를 목표로 하고있습니다
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PinkTultle&show_icons=true&theme=radical)
