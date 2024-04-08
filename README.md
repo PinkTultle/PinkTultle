@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 
 *This Page is Tultle's Profile Page*
 
-동의대학교에서 활동하고있는 개발자입니다.
-임베디드 개발자를 희망하며 raspberry PI와 STM32보드를 
-활용하여 실력을 키우는 중 입니다.
+임베디드 리눅스 개발자를 목표로 하고있습니다
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PinkTultle&show_icons=true&theme=radical)
