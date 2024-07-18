@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 임베디드 리눅스 
 개발자를 목표로 하고있습니다
 
+![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=inseuk1007)
+
 ![Anurag's GitHub stats](https://github-readme-stats-ten-gilt.vercel.app/api?username=PinkTultle&show_icons=true&layout=compact&theme=radical)
 
 
