@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 
 *This Page is Tultle's Profile Page*
 
-임베디드 리눅스 
-개발자를 목표로 하고있습니다
+embedded linux firmware Newcomer Developer
 
 ![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=inseuk1007)
 
