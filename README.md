@@ -53,8 +53,8 @@ embedded linux firmware Newcomer Developer
  <br>
  
  <img src="https://img.shields.io/badge/Oracle-A50104?style=flat&logo=oracle&logoColor=white">
- <img src="https://img.shields.io/badge/MYSQL-A50104?style=flat&logo=mysql&logoColor=white">
- <img src="https://img.shields.io/badge/RADB-A50104?style=flat&logo=radb&logoColor=white">
+ <img src="https://img.shields.io/badge/MYSQL-A50504?style=flat&logo=mysql&logoColor=white">
+ <img src="https://img.shields.io/badge/RADB-A70302?style=flat&logo=radb&logoColor=white">
  <br>
  
  <img src="https://img.shields.io/badge/Raspbian-BC2C1A?style=flat&logo=raspberrypi&logoColor=white">
